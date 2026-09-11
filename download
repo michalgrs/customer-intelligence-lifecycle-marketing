@@ -1,0 +1,14 @@
+# Local project context is not part of the portfolio repository.
+/sources/
+/AGENTS.md
+/.codex/
+/.agents/
+
+# Keep raw exports, contact data and local packages out of the public repository.
+/raw/
+/data/
+*.csv
+*.parquet
+*.zip
+.env
+.env.*
